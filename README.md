@@ -33,20 +33,4 @@ Higher score = deeper brainrot zone.
 - Submit to backend
 - Data stored with UTC timestamp
 
-### 📊 Admin Panel
-- Category pie chart
-- Histogram distribution
-- Daily counts & daily averages
-- Percentiles (p10/p25/p75/p90)
-- Recent scores timeline
-- Configurable filters (min/max score, date range)
-
-### ⚙️ Backend
-- FastAPI server
-- JSONL storage (`scores.jsonl`)
-- Advanced stats endpoint (`/api/stats`)
-
----
-
-## 📁 Project Structure
 
